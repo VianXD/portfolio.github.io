@@ -1,0 +1,19 @@
+/* Import Font */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+.about {
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #2a2929;
+
+}
+
+.about img {
+    height: auto;
+    width: 350px;
+}
+
+.about-text {
+    margin-top: 15%;
+    width: 550px;
+}

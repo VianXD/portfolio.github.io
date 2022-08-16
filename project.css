@@ -1,0 +1,10 @@
+/* Import Font */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+.project {
+    height: 100vh;
+}
+
+.project-text {
+    margin-top: 25%;
+}
